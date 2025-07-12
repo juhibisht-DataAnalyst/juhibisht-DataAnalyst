@@ -1,3 +1,4 @@
+![logo](https://github.com/juhibisht-DataAnalyst/juhibisht-DataAnalyst/blob/main/360_F_707027965_o1Nawl8IUYvBowX2BWbJBO8lAyHtkuIa.jpg)
 <h1 align="center">Hi 👋, I'm Juhi Bisht</h1>
 <h3 align="center">A passionate Data Analyst from India</h3>
 
